@@ -8,7 +8,7 @@ var colors = [
 ]
 
 var squares = document.querySelectorAll('.square');
-var pickedColor = colors[3];
+var pickedColor = colors[4];
 var colorDisplay = document.getElementById("colorDisplay");
 
 colorDisplay.textContent = pickedColor;
