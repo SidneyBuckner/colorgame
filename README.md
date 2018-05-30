@@ -12,7 +12,7 @@ This is a guessing game that gives you a color based on its Red, Green and Blue 
 
 ##### Updates:
 
-+ Initial Repository created: 5/29/2018
++ Initial Repository created: 5/30/2018
 +
 
 ---
