@@ -15,7 +15,9 @@ This is a guessing game that gives you a color based on its Red, Green and Blue 
 + Initial Repository created: 5/30/2018
 + Added six hard-coded colors to sample, created loop to list colors: 5/30/2018
 + Created if/else statement to determine is user clicked on correct color: 5/30/2018
-+ Prompted with either a correct or incorrect alert: 5/30/2018
++ User answer prompted with either a correct or incorrect alert: 5/30/2018
++ Added function to offer random numbers to fee from hard-coded RBG array: 5/30/2018
++ All colors will turn when the correct color is picked: 5/30/2018
 
 ---
 ###### Assets and code created by Sidney Buckner. May 2018.
