@@ -1,24 +1,45 @@
 body {
   background-color: #232323;
+  margin: 0;
+  font-family: "Montserrat", "Avenir";
 }
 
 
 .square {
   width: 30%;
-  background: purple;
+  background-color: purple;
   padding-bottom: 30%;
   float: left;
   margin: 1.66%;
+  border-radius: 30px;
+  transition: background 0.5s;
+  -webkit-transition: background 0.6s;
+	-moz-transition: background 0.6s;
 }
 
 #container{
   margin: 0 auto;
   max-width: 600px;
-
+  padding-top: 15px;
 }
 
 h1 {
+  text-align: center;
+  line-height: 1.1;
+  font-weight: normal;
+  text-transform: uppercase;
   color: white;
+  background-color: #ad98df;
+  margin: 0;
+  padding: 5px 0;
+}
+
+#colorDisplay{
+  font-size: 200%;
+}
+#message {
+  display: inline-block;
+  width: 20%;
 }
 
 /* span {
@@ -27,6 +48,42 @@ h1 {
 
 #stripe{
   background-color: white;
-  height: 30px;
+  height: 40px;
   text-align: center;
+  color: black;
+}
+
+.selected {
+  color: white;
+  background-color: #ad98df;
+}
+
+button{
+  border: none;
+  background-color: none;
+  text-transform: uppercase;
+  height: 100%;
+  font-weight: 700;
+  color: #ad98df;
+  letter-spacing: 1px;
+  font-size: inherit;
+  transition: all 0.2s;
+  -webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+}
+
+button:hover{
+  color: white;
+  background-color: #ad98df;
+
+}
+
+h6{
+  width: 100%;
+  margin: 0;
+  font-family: "Montserrat", "Avenir";
+  font-weight: 0;
+  text-align: center;
+  letter-spacing: 1px;
+  color: white;
 }

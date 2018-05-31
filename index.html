@@ -5,13 +5,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Color Game</title>
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.3.0/milligram.min.css"> -->
   <link rel="stylesheet" href="/css/colorgame.css">
 </head>
 <body>
-  <h1>The Great <span id="colorDisplay"> RGB</span> Color Game!</h1>
+  <h1>Welcome to
+      <br>
+      <span id="colorDisplay">RGB</span>
+      <br>
+      The Color Game
+    </h1>
   <div id="stripe">
     <button id="reset" type="button" name="button">New Colors</button>
     <span id="message"></span>
+    <button id="easyBtn">Easy</button>
+    <button id="hardBtn"class="selected">Hard</button>
   </div>
 
   <div id="container">
@@ -24,7 +33,11 @@
 
   </div>
 
-
+<div id="container">
+  <footer>
+    <h6>Created by Sidney Buckner</h6>
+  </footer>
+</div>
 
 <script src="js/colorgame.js" charset="utf-8"></script>
 </body>
