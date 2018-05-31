@@ -8,7 +8,7 @@ This is a guessing game that gives you a color based on its Red, Green and Blue 
 
 + Clickable colors squares to guess which color matches the RGB Model
 + A reset button to display a new set of colors should the user want to change them
-
++ [https://mycolorgame.netlify.com/]
 
 
 ---
@@ -21,6 +21,7 @@ This is a guessing game that gives you a color based on its Red, Green and Blue 
 + User answer prompted with either a correct or incorrect alert: 5/30/2018
 + Added function to offer random numbers to fee from hard-coded RBG array: 5/30/2018
 + All colors will turn when the correct color is picked: 5/30/2018
+
 
 + Added function to randomize colors to display in boxes: 5/31/2018
 + Created a Reset Button to choose another set of colors: 5/31/2018
