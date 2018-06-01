@@ -4,7 +4,7 @@
 Welcome to my Color Game! This is a small application for implementing JavaScript with HTML and CSS.
 This is a guessing game that gives you a color based on its Red, Green and Blue Color Model. Then, out of the four choices of colors displayed, you will guess which color matches the RGB Color Model by clicking on the color. If you pick the right color, congratulations! You advance to the next round! If you guess wrong, the color you clicked will disappear and you have to guess again! Good luck!
 
-##### Features:
+#### Features:
 
 + Clickable colors squares to guess which color matches the RGB Model
 + A reset button to display a new set of colors should the user want to change them
@@ -13,14 +13,14 @@ This is a guessing game that gives you a color based on its Red, Green and Blue 
 
 ---
 
-##### Updates:
+#### Updates:
 
-### 6/1/2018
+##### 6/1/2018
 + Added Ternary Operator for refactoring experiment (line 18)
 + Changing Font Size of h1 so display will be one line on responsive small devices
 + Refactoring
 
-### 5/31/2018
+##### 5/31/2018
 + Added function to randomize colors to display in boxes
 + Created a Reset Button to choose another set of colors
 + Modified Background Color to match the correct picked color
@@ -29,7 +29,7 @@ This is a guessing game that gives you a color based on its Red, Green and Blue 
 + Made transition fade for colors when incorrect
 + Some refactoring
 
-### 5/30/2018
+##### 5/30/2018
 + Initial Repository created
 + Added six hard-coded colors to sample, created loop to list colors
 + Created if/else statement to determine is user clicked on correct color
