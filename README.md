@@ -18,7 +18,7 @@ This is a guessing game that gives you a color based on its Red, Green and Blue 
 ##### 6/1/2018
 + Added Ternary Operator for refactoring experiment (line 18)
 + Changing Font Size of h1 so display will be one line on responsive small devices
-+ Refactoring
++ Additional refactoring
 
 ##### 5/31/2018
 + Added function to randomize colors to display in boxes
