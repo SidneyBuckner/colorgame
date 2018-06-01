@@ -10,7 +10,6 @@ This is a guessing game that gives you a color based on its Red, Green and Blue 
 + A reset button to display a new set of colors should the user want to change them
 + [https://mycolorgame.netlify.com/]
 
-
 ---
 
 #### Updates:
