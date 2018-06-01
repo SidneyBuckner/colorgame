@@ -15,21 +15,29 @@ This is a guessing game that gives you a color based on its Red, Green and Blue 
 
 ##### Updates:
 
-+ Initial Repository created: 5/30/2018
-+ Added six hard-coded colors to sample, created loop to list colors: 5/30/2018
-+ Created if/else statement to determine is user clicked on correct color: 5/30/2018
-+ User answer prompted with either a correct or incorrect alert: 5/30/2018
-+ Added function to offer random numbers to fee from hard-coded RBG array: 5/30/2018
-+ All colors will turn when the correct color is picked: 5/30/2018
+### 6/1/2018
++ Added Ternary Operator for refactoring experiment (line 18)
++ Changing Font Size of h1 so display will be one line on responsive small devices
++ Refactoring
+
+### 5/31/2018
++ Added function to randomize colors to display in boxes
++ Created a Reset Button to choose another set of colors
++ Modified Background Color to match the correct picked color
++ Background color resets to black when the game is restarted
++ Adjustments to design, font sizes, margins and set color scheme
++ Made transition fade for colors when incorrect
++ Some refactoring
+
+### 5/30/2018
++ Initial Repository created
++ Added six hard-coded colors to sample, created loop to list colors
++ Created if/else statement to determine is user clicked on correct color
++ User answer prompted with either a correct or incorrect alert
++ Added function to offer random numbers to fee from hard-coded RBG array
++ All colors will turn when the correct color is picked
 
 
-+ Added function to randomize colors to display in boxes: 5/31/2018
-+ Created a Reset Button to choose another set of colors: 5/31/2018
-+ Modified Background Color to match the correct picked color: 5/31/2018
-+ Background color resets to black when the game is restarted: 5/31/2018
-+ Adjustments to design, font sizes, margins and set color scheme: 5/31/2018
-+ Made transition fade for colors when incorrect: 5/31/2018
-+ Some refactoring: 5/31/2018
 
 ---
 ###### Assets and code created by Sidney Buckner. May 2018.
